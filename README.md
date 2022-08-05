@@ -43,8 +43,8 @@
 <div style='display:inline_block'> 
 
 
-<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img alt="JEST" src="https://img.shields.io/badge/JEST-633e3e?style=for-the-badge&logo=jest&logoColor=white">
  
- <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+ <img alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   
 </div>
