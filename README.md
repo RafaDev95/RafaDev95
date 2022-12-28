@@ -23,7 +23,9 @@
 <img  alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
 <img  alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-
+  
+<img alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  
 <img  alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 <img  alt="NEXTJS" src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=vercel&logoColor=FFFFF">
@@ -34,17 +36,4 @@
   
 <img  alt="EXPRESS JS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 
-</div>
-
-
-
-## Estudando atualmente
-
-<div style='display:inline_block'> 
-
-
-<img alt="JEST" src="https://img.shields.io/badge/JEST-633e3e?style=for-the-badge&logo=jest&logoColor=white">
- 
- <img alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  
 </div>
