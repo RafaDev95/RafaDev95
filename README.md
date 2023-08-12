@@ -12,28 +12,26 @@
 
 <div style='display:inline_block'> 
 
-<img  alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
-<img  alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-<img  alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+<img  alt="MUI" src="https://img.shields.io/badge/MaterialUi-000?style=for-the-badge&logo=mui&logoColor=white">
 
 <img  alt="Styled-Components" src="https://img.shields.io/badge/styled--components-yellow?style=for-the-badge&logo=styled-components&logoColor=white">
 
 <img  alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-
-<img  alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   
 <img alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   
 <img  alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 <img  alt="NEXTJS" src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=vercel&logoColor=FFFFF">
+
+<img  alt="REDUX" src="https://img.shields.io/badge/Prisma-764abc?style=for-the-badge&logo=redux&logoColor=white">
   
 <img  alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
+<img alt='PrismaORM' src="https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma&logoColor=white">
+
 <img  alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  
+
 <img  alt="EXPRESS JS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 
 </div>
