@@ -24,7 +24,7 @@
 
 <img  alt="NEXTJS" src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=vercel&logoColor=FFFFF">
 
-<img  alt="REDUX" src="https://img.shields.io/badge/Prisma-764abc?style=for-the-badge&logo=redux&logoColor=white">
+<img  alt="REDUX" src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white">
   
 <img  alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
