@@ -39,4 +39,6 @@
 <img  alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
 <img  alt="EXPRESS JS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+
+<img  alt="POSTGRES" src="https://img.shields.io/badge/PostgreSQL-9.6+-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
